@@ -1,0 +1,22 @@
+{
+  "name": "",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "193394d953e956b94902e23708f3135b",
+      "css": "phonelink_ring",
+      "code": 59392,
+      "src": "material"
+    },
+    {
+      "uid": "9615c86e461b73ce2f1670aceff0b75d",
+      "css": "phonelink_lock",
+      "code": 59393,
+      "src": "material"
+    }
+  ]
+}
