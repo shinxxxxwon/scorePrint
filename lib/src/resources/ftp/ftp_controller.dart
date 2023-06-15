@@ -101,10 +101,10 @@ class FtpController{
 //==============================================================================
   //FTP연결 함수
   Future<void> connectionFTP() async {
-    String strHost = '211.210.130.24';
-    String strUser = 'SCORE-10';
-    String strPass = r'1q2w3e$R';
-    int nPort = 50001;
+    String strHost = '127.0.0.1';
+    String strUser = 'userId';
+    String strPass = 'password';
+    int nPort = 80;
 
     _ftpConnect = FTPConnect(strHost, user: strUser, pass: strPass, port: nPort);
 
